@@ -1,2 +1,2 @@
-# Krishika-
+# Krishika
 A portfolio website
